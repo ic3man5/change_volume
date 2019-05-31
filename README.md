@@ -3,8 +3,8 @@
 bash script to change volume up and down on the current pulseaudio sink. Script is currently hard limited to 150% to save your speakers / ears.
 
 # Example Screenshots for KDE keyboard shortcuts
-[![KDE shortcut lower volume](kde_lower.png)]
-[![KDE shortcut raise volume](kde_raise.png)]
+![KDE shortcut lower volume](kde_lower.png)
+![KDE shortcut raise volume](kde_raise.png)
 
 # Example usage
 ```
